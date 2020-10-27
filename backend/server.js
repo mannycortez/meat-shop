@@ -13,8 +13,6 @@ import pkg from 'cloudinary'
 
 const cloudinary = pkg
 
-
-
 dotenv.config()
 
 connectDB()
