@@ -1,7 +1,7 @@
 {
-  "name": "mcs-store",
+  "name": "meat-shop",
   "version": "1.0.0",
-  "description": "MERN Store",
+  "description": "MERN Meat Shop",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mannycortez/mcs-store.git"
+    "url": "git+https://github.com/mannycortez/manny-meat-shop.git"
   },
   "author": "Manny Cortez Studios LLC",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mannycortez/mcs-store/issues"
+    "url": "https://github.com/mannycortez/manny-meat-shop/issues"
   },
-  "homepage": "https://github.com/mannycortez/mcs-store#readme",
+  "homepage": "https://github.com/mannycortez/manny-meat-shop#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.23.0",
