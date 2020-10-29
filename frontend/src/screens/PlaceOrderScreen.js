@@ -149,7 +149,7 @@ const PlaceOrderScreen = ({history}) => {
                                         className='btn-block'
                                         disabled={cart.cartItems === 0}
                                         onClick={placeOrderHandler}
-                                        style={{backgroundColor: 'green'}}> Continue to Payment </Button>
+                                        style={{backgroundColor: 'green'}}> Continue to payment </Button>
                             </ListGroup.Item>
                         </ListGroup>
                     </Card>

@@ -1,7 +1,7 @@
 {
   "name": "meat-shop",
   "version": "1.0.0",
-  "description": "MERN Meat Shop",
+  "description": "online shop for butcher shop",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mannycortez/manny-meat-shop.git"
+    "url": "git+https://github.com/mannycortez/meat-shop.git"
   },
   "author": "Manny Cortez Studios LLC",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mannycortez/manny-meat-shop/issues"
+    "url": "https://github.com/mannycortez/meat-shop/issues"
   },
-  "homepage": "https://github.com/mannycortez/manny-meat-shop#readme",
+  "homepage": "https://github.com/mannycortez/meat-shop#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.23.0",
